@@ -21,7 +21,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .goods {
     display: flex;
     /* 设置包裹 */
